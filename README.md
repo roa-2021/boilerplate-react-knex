@@ -10,7 +10,7 @@ git clone https://github.com/[your-account]/[your-app].git
 cd [your-app] && npm i
 ```
 
-To initialise your databse
+To initialise your database
 ```
 npm run knex migrate:latest
 npm run knex seed:run
